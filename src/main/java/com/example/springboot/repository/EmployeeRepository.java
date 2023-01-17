@@ -5,7 +5,7 @@ import org.springframework.stereotype.Repository;
 
 import com.example.springboot.model.Employee;
 
-
+//uhruhuhruhwiu
 @Repository
 public interface EmployeeRepository extends JpaRepository<Employee, Long>{
 
